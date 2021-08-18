@@ -1,6 +1,5 @@
 import React, { Suspense, useCallback, useEffect, useMemo, useRef, useState } from "react";
 import {
-  Camera,
   Canvas,
   extend,
   Object3DNode,
