@@ -3,7 +3,6 @@ import {
   Canvas,
   extend,
   Object3DNode,
-  ThreeEvent,
   useFrame,
   useLoader,
   useThree,
